@@ -1,4 +1,4 @@
-# Data-Visualization-using-Python-EssentialsLetsUpgrade
+# Data-Visualization-using-Python-Essentials
 
 Data Visualization helps in transforming a contextual data in to a visualisation, for easier understanding and deriving better insights. The main idea is to identify patterns, trends or outliers present in teh data and get a better understanding on the type of data or output we get. 
 
